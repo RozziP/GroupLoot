@@ -1,6 +1,6 @@
 {
     "name": "GroupLoot",
-    "version_number": "1.0.0",
+    "version_number": "1.1.0",
     "website_url": "",
     "description": "Shares looted items to all living players, and reduces number of chest spawns",
 	"dependencies": []
