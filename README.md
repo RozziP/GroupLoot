@@ -7,4 +7,5 @@ Chest spawns and boss drops no longer scale with the number of players on a team
 Copy Assembly-CSharp.dll into Risk of Rain2 -> Risk of Rain 2_Data -> Managed
 
 ### Changelog
+1.1.1: Fixed an issue with spawning chests  
 1.1.0: It actually works now. Removed group scaling from bosses.

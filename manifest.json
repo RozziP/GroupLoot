@@ -1,7 +1,7 @@
 {
     "name": "GroupLoot",
-    "version_number": "1.1.0",
+    "version_number": "1.1.1",
     "website_url": "",
-    "description": "Shares looted items to all living players, and reduces number of chest spawns",
+    "description": "Shares looted items to all living players, and removes team scaling from chest spawns and boss loot",
 	"dependencies": []
 }
